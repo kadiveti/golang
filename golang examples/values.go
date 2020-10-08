@@ -12,3 +12,4 @@ func main() {
 	fmt.Println("Sorry out of words", true || false)
 	fmt.Println("People don't confuse me with ! or not", !true)
 }
+
