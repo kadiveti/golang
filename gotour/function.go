@@ -1,4 +1,5 @@
 package main
+// int can be passed in two ways
 
 import (
 	"fmt"
